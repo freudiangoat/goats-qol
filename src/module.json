@@ -1,7 +1,7 @@
 {
-  "name": "goats-template",
-  "title": "",
-  "description": "FreudianGoat's Foundry VTT template.", 
+  "name": "goats-qol",
+  "title": "FreudianGoat's QoL",
+  "description": "FreudianGoat's Quality of Life fixes.", 
   "authors": [
     {
       "name": "FreudianGoat",
@@ -13,9 +13,9 @@
   "compatibleCoreVersion": "0.8.8",
   "manifestPlusVersion": "1.0.0",
   "url": "https://github.com/freudiangoat/foundry-template",
-  "manifest": "https://github.com/freudiangoat/<module>/releases/download/latest/module.json",
-  "download": "https://github.com/freudiangoat/<module>/releases/download/latest/module.zip",
-  "license": "https://github.com/freudiangoat/<module>/blob/main/LICENSE.MIT",
+  "manifest": "https://github.com/freudiangoat/goats-qol/releases/download/latest/module.json",
+  "download": "https://github.com/freudiangoat/goats-qol/releases/download/latest/module.zip",
+  "license": "https://github.com/freudiangoat/goats-qol/blob/main/LICENSE.MIT",
   "type": "module",
   "includes": [
     "./assets/**",

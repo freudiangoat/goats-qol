@@ -1,12 +1,12 @@
 {
-  "name": "goats-template",
+  "name": "goats-qol",
   "version": "1.0.0",
-  "description": "FreudianGoat's Foundry VTT template.",
+  "description": "FreudianGoat's Quality of Life fixes.",
   "main": "index.js",
   "scripts": {
     "build": "gulp build"
   },
-  "author": "",
+  "author": "FreudianGoat",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.2",
